@@ -21,7 +21,6 @@ but not stage the untracked files eg new files added
 "git log -p -3" above result with last 3 entries
 "git log --stat" show detailed log with incremental differenciation
 "git log --pretty=oneline" commit hash and commit messages in one line
-"git log --since=2.days" log filter other filter are month,weeks,years
 
 **UNSTAGING **
 "git restore file.type" discard changes on present working directory
