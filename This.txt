@@ -27,3 +27,10 @@ but not stage the untracked files eg new files added
 "git restore file.type" discard changes on present working directory
 "git restore --staged file.type" to unstage a staged file
 "git checkout -f" restore to last commit
+
+**WORKING WITH REMOTE DIRECTORY**
+Generate and add ssh key with github guides and add ssh key to github
+"git push -u origin main" to upload/push your all code to github
+
+**GIT ALIAS**
+"git config --global alias.st status" set st as alias of status
