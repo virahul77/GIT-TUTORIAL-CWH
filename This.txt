@@ -21,3 +21,8 @@ but not stage the untracked files eg new files added
 "git log -p -3" above result with last 3 entries
 "git log --stat" show detailed log with incremental differenciation
 "git log --pretty=oneline" commit hash and commit messages in one line
+
+**UNSTAGING **
+"git restore file.type" discard changes on present working directory
+"git restore --staged file.type" to unstage a staged file
+"git checkout -f" restore to last commit
