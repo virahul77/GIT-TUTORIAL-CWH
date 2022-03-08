@@ -1,3 +1,12 @@
+### LINUX/GIT BASH COMMONDS ###
+"touch file.type" to create an empty file
+"rm -rf file.type" to remove/delete permantaly a file
+"mv file.type file_renamed.type" move commond can be used for renaming
+"cd ../" change directory one level up
+"cd ./path/" change directory to path from here
+"cd /path/" change directory to given path
+
+
 ### GIT TUTORIAL NOTES ###
 
 **GIT DIFFERENCE**
@@ -36,4 +45,6 @@ Generate and add ssh key with github guides and add ssh key to github
 "git config --global alias.st status" set st as alias of status
 
 **GIT BRANCHING**
-
+"git checkout -b newbranch" to create a new branch and switch to it
+"git checkout -f" restore to last commit
+"git checkout commithash" to go to inteded commit
