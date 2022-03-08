@@ -48,3 +48,9 @@ Generate and add ssh key with github guides and add ssh key to github
 "git checkout -b newbranch" to create a new branch and switch to it
 "git checkout -f" restore to last commit
 "git checkout commithash" to go to inteded commit
+"git branch to check branches and active branch
+"git branch -v" view last commit of each branches with hash and messages
+"git branch --merged" show all branches that are merged
+"git branch --no-merged" show not merged braches 
+"git branch -d branchname" to delete a merged branch show error for unmerged branch
+"git branch -D branchname" to force delete a branch anytype
