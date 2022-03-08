@@ -54,3 +54,6 @@ Generate and add ssh key with github guides and add ssh key to github
 "git branch --no-merged" show not merged braches 
 "git branch -d branchname" to delete a merged branch show error for unmerged branch
 "git branch -D branchname" to force delete a branch anytype
+"git push origin branch1" to push your branch to remote as same naming before push you must be on branch to be pushed
+"git push origin branch1:newbranch" to push your branch to remote with changed name
+"git push -d origin branch1" delete branch from remote
