@@ -34,3 +34,6 @@ Generate and add ssh key with github guides and add ssh key to github
 
 **GIT ALIAS**
 "git config --global alias.st status" set st as alias of status
+
+**GIT BRANCHING**
+
